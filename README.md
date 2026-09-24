@@ -1,4 +1,4 @@
-# 📊 Big Data Analytics - Week 4
+Data visualization week 1
 
 ## 📌 Project Overview
 
